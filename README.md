@@ -92,13 +92,7 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 4. **Push to the branch** (`git push origin feature-branch`)
 5. **Open a pull request**
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, please contact Anshul Chauhan at anshulc55@gmail.com.
 
 ---
 
